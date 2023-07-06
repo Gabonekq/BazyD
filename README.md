@@ -15,3 +15,7 @@
 
 - Python Tkinter
 - Visual Studio Code
+
+#### Uruchomienie: 
+- home i report -> python app.py
+- pozostałe pliki -> python (nazwa pliku)
